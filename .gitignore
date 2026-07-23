@@ -1,0 +1,30 @@
+# Java / Maven (Spring Boot)
+spring_mvc/target/
+spring_mvc/.mvn/wrapper/maven-wrapper.jar
+spring_mvc/.apt_generated
+spring_mvc/.classpath
+spring_mvc/.factorypath
+spring_mvc/.project
+spring_mvc/.settings
+spring_mvc/.springBeans
+spring_mvc/.sts4-cache
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Log files
+*.log
