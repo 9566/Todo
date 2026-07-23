@@ -1,4 +1,5 @@
 # Java / Maven (Spring Boot)
+spring_mvc/src/main/resources/application.properties
 spring_mvc/target/
 spring_mvc/.mvn/wrapper/maven-wrapper.jar
 spring_mvc/.apt_generated
